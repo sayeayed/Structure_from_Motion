@@ -11,8 +11,9 @@ I have no prior experience with SfM, so hold on because it's going to be a bumpy
 
 ## **Required Libraries**
 To run the files in this repository, the following libraries/packages must be installed:
-- 'numpy'
-- 'os'
-- 'cv2'
+- `numpy
+- `os
+- `cv2
+Note: In order to run the test code, you must copy the "images" folder from the original dataset at http://phototour.cs.washington.edu/datasets/ into the directory NotreDame/NotreDame/
 
 ## **File descriptions**
