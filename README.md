@@ -14,15 +14,17 @@ To run the files in this repository, the following libraries/packages must be in
 - `numpy`
 - `os`
 - `cv2`
-- `matplotlib`
-- `mpl_toolkits`
+- `matplotlib`*
+- `mpl_toolkits`*
 
-Note: In order to run the test code, you must copy the "images" folder from the original dataset at http://phototour.cs.washington.edu/datasets/ into the directory NotreDame/NotreDame/
+Notes: 
+- 'In order to run the test code, `SfM_test.py` you must copy the "images" folder from the original dataset at http://phototour.cs.washington.edu/datasets/ into the directory NotreDame/NotreDame/
+- 'Lines 5 and 6 of `SfM_test.py` can be commented out to avoid missing dependencies of non-standard libraries denoted by the asterisk, which are only used for plotting purposes
 
 ## **File descriptions**
 Files "for submission" are:
 - `SfMlib/mySfM.py`
-- `SfM_test.py` (not to be confused with `SfM_Test.ipynb` which is a Jupyter Notebook that was used for compiling and testing)
+- `SfM_test.py` (not to be confused with `SfM_Test.ipynb` which is a Jupyter notebook that was used for compiling and testing)
 
 ### `mySfM.py`
 This Python script is a module in the package (or library) that can be imported into any other script to implement SfM. As of now, it is unpopulated, with only placeholder definitions for classes and methods that would be used in SfM algorithms. If other modules should be needed, they will be added to the package `SfMlib`. 
