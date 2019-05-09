@@ -16,11 +16,11 @@ import cv2
 
 class MatchedPoint():
     def _init_(self):
-        ...
+        '''...'''
         
 
 def triangulateFun():
-    ...
+    '''...'''
 
 def reconstructFun():
-    ...
+    '''...'''
