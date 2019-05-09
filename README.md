@@ -1,5 +1,6 @@
 # **Structure_from_Motion**
 ***
+Created by Ayeda Sayeed (sayeayed@gmail.com)
 Attempted implementation and custom library for SfM
 
 ## **Summary**
