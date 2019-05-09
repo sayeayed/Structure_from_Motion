@@ -23,7 +23,7 @@ To run the files in this repository, the following libraries/packages must be in
 - `mpl_toolkits`*
 
 Notes: 
-- 'In order to run the test code, `SfM_test.py` you must copy the "images" folder from the original dataset at http://phototour.cs.washington.edu/datasets/ into the directory NotreDame/NotreDame/
+- 'In order to run the test code, `SfM_test.py` you must copy the "images" folder from the original dataset at http://phototour.cs.washington.edu/datasets/ into NotreDame/NotreDame/ in the working directory
 - 'Lines 5 and 6 of `SfM_test.py` can be commented out to avoid missing dependencies of non-standard libraries denoted by the asterisk, which are only used for plotting purposes
 
 ## **File descriptions**
